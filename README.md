@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [unmistakable](https://github.com/gagoar/unmistakable) - Rewrite tool descriptions, error messages and agent instructions so an AI agent cannot misread them, with a dependency-free TypeScript linter to check the result.
 
 
 ## 📘 Learning & Knowledge  
